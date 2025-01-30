@@ -28775,3 +28775,4 @@ myenv/share/jupyter/kernels/python3/logo-64x64.png
 myenv/share/jupyter/kernels/python3/logo-svg.svg
 myenv/share/man/man1/ipython.1
 myenv/share/man/man1/ttx.1
+data/birds.hdf5
